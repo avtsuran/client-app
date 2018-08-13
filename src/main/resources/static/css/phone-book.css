@@ -1,0 +1,9 @@
+.container {
+    width: 1000px;
+    margin-top: 30px !important;
+}
+
+.column {
+    text-align: center !important;
+    width: 100px;
+}
